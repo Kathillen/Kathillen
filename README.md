@@ -1,4 +1,4 @@
-## Eai! Eu sou Kathillen, ou melhor, Kaen
+## Eai! Eu sou Kathillen
 
 - 🔭 Estou estudando desenvolvimento Backend
 - 🌱 Aprimorando minhas habilidades em JavaScript!
