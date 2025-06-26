@@ -16,13 +16,10 @@
  <a href="https://discordapp.com/users/1387590981158830113" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:devkathillen@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kathillen-maciel-877a24370" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<img align="right" alt="gif-gato" width="100" src="https://cdn.discordapp.com/attachments/1387923983252590613/1387924093113991319/gif_gato.gif?ex=685f1c8a&is=685dcb0a&hm=5a531a7dc9789d80f6d35a4b2b46eddf1373bcf4fe333a4204ff9b95906a8aac">
 
 </div>
 
-<div>
- <img align="right" alt="gif-gato" width="100" src="https://cdn.discordapp.com/attachments/1387923983252590613/1387924093113991319/gif_gato.gif?ex=685f1c8a&is=685dcb0a&hm=5a531a7dc9789d80f6d35a4b2b46eddf1373bcf4fe333a4204ff9b95906a8aac">
-
-</div>
 
   
 
