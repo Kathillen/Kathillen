@@ -20,6 +20,9 @@
 
 </div>
 
+![Snake animation](https://github.com/kathillen/kathillen/blob/output/github-contribution-grid-snake.svg)
+
+
 
   
 
