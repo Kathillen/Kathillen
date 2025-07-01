@@ -2,7 +2,7 @@
 
 - 🔭 Estou estudando desenvolvimento Backend
 - 🌱 Aprimorando minhas habilidades em JavaScript!
-- 😄 Pronouns: ela/dela
+- 😄 ela/dela
 
 <div>
  
