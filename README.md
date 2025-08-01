@@ -15,8 +15,8 @@
 
 <br/>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 <br/><br/>
 
@@ -29,6 +29,6 @@
 
 <br/><br/>
 
-<img alt="gif-homem-aranha" width="150" src="https://cdn.discordapp.com/attachments/1388200023619014690/1389412885805006928/spider-man_2.gif?ex=68648716&is=68633596&hm=58df19c1c9c7563d5a5db9b198f7dea271d4ce0f5df1e2ff275c5d6a1204aa1a"/>
+<img src="https://github.com/Kathillen/Kathillen/blob/main/spider-man%202.gif?raw=true" width="500" />
 
 </div>
