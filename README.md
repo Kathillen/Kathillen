@@ -2,10 +2,10 @@
 
 ## Eai! Eu sou Kathillen
 
-💻 Desenvolvedora Back-end • Node.js • JavaScript  
+💻 Dev Back-end • Node.js • JavaScript  
 📁 Projetos com lógica, JSON e módulos nativos  
 🚧 Ainda sem Express, MongoDB ou ferramentas CLI  
-🕷️ Fã do Homem-Aranha • Explorando o universo do código  
+🪪 Cursando análise de dados
 🎯 Evoluindo passo a passo, com foco no essencial  
 
 <br/>
