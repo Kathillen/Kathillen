@@ -4,7 +4,7 @@
 
 💻 Dev Back-end • Node.js • JavaScript  
 📁 Projetos com lógica, JSON e módulos nativos  
-🚧 Ainda sem Express, MongoDB ou ferramentas CLI  
+🚧 Desenvolvendo cada dia mais minhas habilidades em programação 
 🪪 Cursando análise e desenvolvimentop de sistemas
 🎯 Evoluindo passo a passo, com foco no essencial  
 
