@@ -5,7 +5,7 @@
 💻 Dev Back-end • Node.js • JavaScript  
 📁 Projetos com lógica, JSON e módulos nativos  
 🚧 Ainda sem Express, MongoDB ou ferramentas CLI  
-🪪 Cursando análise de dados
+🪪 Cursando análise e desenvolvimentop de sistemas
 🎯 Evoluindo passo a passo, com foco no essencial  
 
 <br/>
