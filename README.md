@@ -3,9 +3,13 @@
 ## Eai! Eu sou Kathillen
 
 💻 Dev Back-end • Node.js • JavaScript  
+
 📁 Projetos com lógica, JSON e módulos nativos  
-🚧 Desenvolvendo cada dia mais minhas habilidades em programação 
+
+🚧 Desenvolvendo cada dia mais minhas habilidades em programação
+
 🪪 Cursando análise e desenvolvimentop de sistemas
+
 🎯 Evoluindo passo a passo, com foco no essencial  
 
 <br/>
